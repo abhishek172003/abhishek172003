@@ -1,80 +1,69 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Abhishek Palve</span></h1>
-
+<!-- Luffy Punch Animation (Left) -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+AI+Engineer+%7C+Data+Scientist+in+the+Making;🤖+Generative+AI+%7C+LLM+%7C+LangChain;🧠+NLP+Explorer+%7C+Deep+Learning+Practitioner;💡+Building+Smart+and+Scalable+AI+Systems" />
+  <img src="https://media1.tenor.com/m/EvV2yv9uuhEAAAAC/luffy-luffing.gif" alt="Luffy punches into the page" width="200" style="vertical-align: middle;" />
+  
+  <!-- Middle Animation (Luffy Stylish) -->
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenRzZDR6bmllNjNiYmNxNWd2Y3hmb3RmdXhwcmoxdmprNzZwMmMycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iixdMr6cSURW/giphy.gif" alt="Luffy cool animation" width="200" style="vertical-align: middle;" />
+  
+  <!-- Luffy Bruh Reaction (Right) -->
+  <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" alt="Luffy bruh reaction" width="200" style="vertical-align: middle;" />
 </p>
 
 ---
 
-## 💼 About Me
-
-- 🌱 Preparing for **AI Engineer, Data Science, and Machine Learning** roles  
-- 🎓 Passionate about **Artificial Intelligence**, **Generative AI**, **Large Language Models (LLMs)**, **NLP**, and **Computer Vision**  
-- 🛠️ Skilled in **Python**, **LangChain**, **OpenAI API**, **Hugging Face**, **OpenCV**, **Scikit-learn**, **Pandas**, **NumPy**  
-- ⚡ Experience with **Prompt Engineering**, **RAG Pipelines**, **Vector Databases** (FAISS, Pinecone), **API Integrations**  
-- 🧠 Love **Hackathons**, **Open Source Contributions**, and **End-to-End AI Projects**  
-
----
-
-## 🚀 Tech Stack & Tools
+<h1 align="center">👋 Hi, I’m <span style="color:#00FFFF;">Abhishek Palve</span></h1>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,vscode,github,git,linux&perline=8" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-800080?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FEC53F?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/LLMs-FF4081?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vector%20DB-009688?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+GenAI+|+LLMs+|+LangChain+|+Deep+Learning" alt="Typing animation" />
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+##  About Me
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek172003&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishek172003&theme=tokyonight&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek172003&theme=react-dark&hide_border=true&bg_color=0D1117" />
-</p>
+-  Preparing for **AI Engineer, Data Science & ML Roles**  
+-  Passionate about **Generative AI**, **Large Language Models**, **Prompt Engineering**, **RAG**, **LangChain**, and **Vector Databases (FAISS, Pinecone)**  
+-  Proficient in **Python**, **TensorFlow**, **PyTorch**, **OpenCV**, **Hugging Face**, **Pandas**, **NumPy**  
+-  Enjoy problem-solving in **Hackathons**, building **end-to-end AI solutions**, and contributing to **Open Source**
 
 ---
 
-## 🧠 AI / ML / GenAI Expertise
+##  Tech Stack & Tools
 
-- 🤖 **Machine Learning:** Classification, Regression, Clustering  
-- 🧠 **Deep Learning:** CNNs, Transformers, LLM Fine-tuning  
-- 🔥 **Generative AI:** Chatbots, Text-to-Image, RAG Systems  
-- 🗣️ **NLP:** Text Classification, Sentiment Analysis, Named Entity Recognition  
-- 📊 **Projects:**  
-  - Movie Recommender System  
-  - AI Chatbot with LangChain & OpenAI  
-  - Document Q&A with Vector DB  
-  - Computer Vision Models (Object Detection, Image Classification)  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,github,git&perline=7" alt="Tech icons" />
+</p>
+
+---
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI5aWcyb3Rsa2Z1enBwbDIza2thaXU3dmNzcDU1ZTlhb2w0eHp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTek0q3N8osh8agH4Y/giphy.gif" alt="Luffy cool animation" width="400" height="200" style="vertical-align: middle;" />
+    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l6Zm5waTQ2Z3o2cTA1bnpoYm9lcWpsMGZvbmtpc2kxanF3aDB5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/chkzV0Ygrdh1S/giphy.gif" alt="Luffy cool animation" width="400" height="200" style="vertical-align: middle;" />
+</p>
+
+  
+
+##  Core Expertise
+
+-  **Machine Learning**: Classification, Regression, Clustering  
+-  **Deep Learning**: CNNs, Transformers, LLM Fine-tuning  
+-  **Generative AI**: Chatbots, Text-to-Image, Document Q&A (RAG systems)  
+-  **NLP**: Sentiment Analysis, NER, Prompt Design  
+-  **Key Projects**:
+  - Movie Recommendation Engine  
+  - LangChain-powered AI Chatbot using OpenAI  
+  - Vector DB–backed Document Q&A  
+  - Computer Vision Models: Object Detection & Image Classification
 
 ---
 
-## 🔗 Connect with Me
+##  Connect with Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-palve-652ba91b1/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  
   <a href="mailto:abhishekpalve55@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</p>
-
----
-
-<!-- Fun Animation Section -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="180" alt="Luffy" />
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="220" alt="AI Animation"/>
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="180" alt="Coding Animation"/>
 </p>
