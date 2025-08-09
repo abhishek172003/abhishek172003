@@ -1,60 +1,61 @@
-<h1 align="center">Hi, I'm Abhishek Palve 👋</h1>
+<!-- Profile Header -->
+<h1 align="center">👋 Hey there, I'm <span style="color:#00FFFF">Abhishek Palve</span></h1>
 
 <p align="center">
-  🚀 Aspiring Data Scientist | 💡 AI/ML Enthusiast | 🧠 NLP Explorer | 🧪 Pythonic Coder <br>
-  🎯 Focused on building intelligent systems with Data Science & Machine Learning
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=🚀+AI+Engineer+%7C+Data+Scientist+in+the+Making;🤖+Generative+AI+%7C+LLM+%7C+LangChain;🧠+NLP+Explorer+%7C+Deep+Learning+Practitioner;💡+Building+Smart+and+Scalable+AI+Systems" />
 </p>
 
 ---
 
 ## 💼 About Me
 
-- 🌱 I’m currently preparing for **Data Science, AI/ML Interviews**
-- 🎓 Passionate about **Artificial Intelligence**, **NLP**, **Computer Vision**, and solving real-world problems
-- 🛠️ Actively working with Python, OpenCV, Scikit-learn, Pandas, and more
-- 🧠 Love participating in **Hackathons**, building **projects**, and learning new technologies fast
+- 🌱 Preparing for **AI Engineer, Data Science, and Machine Learning** roles  
+- 🎓 Passionate about **Artificial Intelligence**, **Generative AI**, **Large Language Models (LLMs)**, **NLP**, and **Computer Vision**  
+- 🛠️ Skilled in **Python**, **LangChain**, **OpenAI API**, **Hugging Face**, **OpenCV**, **Scikit-learn**, **Pandas**, **NumPy**  
+- ⚡ Experience with **Prompt Engineering**, **RAG Pipelines**, **Vector Databases** (FAISS, Pinecone), **API Integrations**  
+- 🧠 Love **Hackathons**, **Open Source Contributions**, and **End-to-End AI Projects**  
 
 ---
 
-## 🚀 Languages & Tools
+## 🚀 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-00C853?style=for-the-badge&logo=dependabot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Data%20Science-FF4081?style=for-the-badge&logo=data&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-673AB7?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,vscode,github,git,linux&perline=8" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Generative%20AI-800080?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FEC53F?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLMs-FF4081?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vector%20DB-009688?style=for-the-badge&logo=databricks&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishek172003&show_icons=true&theme=tokyonight&hide=stars" alt="Abhishek's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishek172003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishek172003&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishek172003&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek172003&theme=react-dark&hide_border=true&bg_color=0D1117" />
 </p>
 
 ---
 
-## 🧩 GitHub Contributions
+## 🧠 AI / ML / GenAI Expertise
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhishek172003&theme=react-dark&hide_border=true"/>
-</p>
-
----
-
-## 🧠 AI / ML Interests
-
-- 🤖 Machine Learning: Classification, Regression, Clustering
-- 🧠 Deep Learning: CNNs, NLP Transformers, Xception Model
-- 📊 Projects: Movie Recommender, CV Models, Text Classification
-- 📍 Always looking for new challenges in **Data Science** and **AI**
+- 🤖 **Machine Learning:** Classification, Regression, Clustering  
+- 🧠 **Deep Learning:** CNNs, Transformers, LLM Fine-tuning  
+- 🔥 **Generative AI:** Chatbots, Text-to-Image, RAG Systems  
+- 🗣️ **NLP:** Text Classification, Sentiment Analysis, Named Entity Recognition  
+- 📊 **Projects:**  
+  - Movie Recommender System  
+  - AI Chatbot with LangChain & OpenAI  
+  - Document Q&A with Vector DB  
+  - Computer Vision Models (Object Detection, Image Classification)  
 
 ---
 
@@ -69,9 +70,11 @@
   </a>
 </p>
 
-
 ---
 
+<!-- Fun Animation Section -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Python+%7C+OpenCV+%7C+ML+%7C+DS+%7C+AI+%7C+NLP+%7C+Deep+Learning+%7C+Projects+Driven" />
+  <img src="https://media.giphy.com/media/3oEjHP8ELRNNlnlLGM/giphy.gif" width="180" alt="Luffy" />
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="220" alt="AI Animation"/>
+  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif" width="180" alt="Coding Animation"/>
 </p>
