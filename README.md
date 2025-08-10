@@ -33,13 +33,7 @@
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,github,git,scikitlearn,langchain,huggingface" alt="Tech icons" />
 </p>
 
----
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnI5aWcyb3Rsa2Z1enBwbDIza2thaXU3dmNzcDU1ZTlhb2w0eHp6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UTek0q3N8osh8agH4Y/giphy.gif" alt="Luffy cool animation" width="400" height="200" style="vertical-align: middle;" />
-    <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l6Zm5waTQ2Z3o2cTA1bnpoYm9lcWpsMGZvbmtpc2kxanF3aDB5eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/chkzV0Ygrdh1S/giphy.gif" alt="Luffy cool animation" width="400" height="200" style="vertical-align: middle;" />
-</p>
-
-  
+---  
 
 ##  Core Expertise
 
