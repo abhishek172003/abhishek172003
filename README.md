@@ -30,7 +30,7 @@
 ##  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,huggingface,github,git&perline=7" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,github,git,scikitlearn,langchain,huggingface" alt="Tech icons" />
 </p>
 
 ---
