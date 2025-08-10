@@ -1,3 +1,12 @@
+---
+
+<h1 align="center">👋 Hi, I’m <span style="color:#00FFFF;">Abhishek Palve</span></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+GenAI+|+LLMs+|+LangChain+|+Deep+Learning" alt="Typing animation" />
+</p>
+
+---
 <!-- Luffy Punch Animation (Left) -->
 <p align="center">
   <img src="https://media1.tenor.com/m/EvV2yv9uuhEAAAAC/luffy-luffing.gif" alt="Luffy punches into the page" width="200" style="vertical-align: middle;" />
@@ -8,16 +17,6 @@
   <!-- Luffy Bruh Reaction (Right) -->
   <img src="https://media1.tenor.com/m/dnfJcln1SwoAAAAC/luffy-bruh.gif" alt="Luffy bruh reaction" width="200" style="vertical-align: middle;" />
 </p>
-
----
-
-<h1 align="center">👋 Hi, I’m <span style="color:#00FFFF;">Abhishek Palve</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+|+GenAI+|+LLMs+|+LangChain+|+Deep+Learning" alt="Typing animation" />
-</p>
-
----
 
 ##  About Me
 
