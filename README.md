@@ -4,6 +4,8 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=AI+Engineer+|+GenAI+|+LLMs+|+LangChain+|+Deep+Learning" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=LangGraph+|+AI+Agents+|+MLOps+|+LLMOps+|+TensorFlow+|+PyTorch+|+RL" alt="Typing animation" />
+
 </p>
 
 ---
