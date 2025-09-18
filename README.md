@@ -1,5 +1,3 @@
----
-
 <h1 align="center">👋 Hi, I’m <span style="color:#00FFFF;">Abhishek Palve</span></h1>
 
 <p align="center">
@@ -33,7 +31,7 @@
 ##  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,github,git,scikitlearn,langchain,huggingface" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,github,git,scikitlearn,docker" alt="Tech icons" />
 </p>
 
 ---  
@@ -52,8 +50,6 @@
 
 ---
 
-
-
 ## Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/abhishek-palve-652ba91b1/">
@@ -71,7 +67,5 @@
   <a href="https://abhishek-porfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
+
 </p>
-
-
-
