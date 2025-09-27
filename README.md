@@ -31,22 +31,25 @@
 ##  Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,github,git,scikitlearn,docker" alt="Tech icons" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,github,git,scikitlearn,docker,n8n" alt="Tech icons" />
 </p>
+
 
 ---  
 
-##  Core Expertise
+## 🚀 Core Expertise
 
--  **Machine Learning**: Classification, Regression, Clustering  
--  **Deep Learning**: CNNs, Transformers, LLM Fine-tuning  
--  **Generative AI**: Chatbots, Text-to-Image, Document Q&A (RAG systems)  
--  **NLP**: Sentiment Analysis, NER, Prompt Design  
--  **Key Projects**:
+- **Machine Learning**: Classification, Regression, Clustering  
+- **Deep Learning**: CNNs, Transformers, LLM Fine-tuning  
+- **Generative AI**: Chatbots, Text-to-Image, Document Q&A (RAG systems)  
+- **NLP**: Sentiment Analysis, NER, Prompt Design  
+- **AI Agents & Automation**: LangChain, LangGraph, n8n, Agentic Workflows  
+- **Key Projects**:
   - Movie Recommendation Engine  
   - LangChain-powered AI Chatbot using OpenAI  
   - Vector DB–backed Document Q&A  
-  - Computer Vision Models: Object Detection & Image Classification
+  - Computer Vision Models: Object Detection & Image Classification  
+  - AI Agent Workflows with LangGraph + n8n
 
 ---
 
