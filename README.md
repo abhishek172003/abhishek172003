@@ -37,19 +37,29 @@
 
 ---  
 
-## 🚀 Core Expertise
+# 🚀 Core Expertise
 
-- **Machine Learning**: Classification, Regression, Clustering  
-- **Deep Learning**: CNNs, Transformers, LLM Fine-tuning  
-- **Generative AI**: Chatbots, Text-to-Image, Document Q&A (RAG systems)  
-- **NLP**: Sentiment Analysis, NER, Prompt Design  
-- **AI Agents & Automation**: LangChain, LangGraph, n8n, Agentic Workflows  
-- **Key Projects**:
-  - Movie Recommendation Engine  
-  - LangChain-powered AI Chatbot using OpenAI  
-  - Vector DB–backed Document Q&A  
-  - Computer Vision Models: Object Detection & Image Classification  
-  - AI Agent Workflows with LangGraph + n8n
+- **Machine Learning:** Classification, Regression, Clustering, Model Evaluation  
+- **Deep Learning:** CNNs, Transformers, LLM Fine-tuning, Transfer Learning  
+- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Hugging Face, Autogen  
+- **Generative AI:** Chatbots, Text-to-Image, RAG (Retrieval-Augmented Generation) Systems  
+- **NLP:** Prompt Design, Sentiment Analysis, NER, Embeddings, Advanced Text Processing  
+- **Voice & Speech:** Voice Agents, ASR (Speech-to-Text), TTS (Text-to-Speech), Conversational AI  
+- **AI Agents & Automation:** LangChain, LangGraph, Autogen Agents, n8n, Agentic Workflows  
+- **Data & Storage:** Vector Databases, SQL, Data Engineering for ML Pipelines  
+- **Programming & Software Engineering:** Python, OOP, Modular Design, Unit Testing, CI/CD  
+- **MLOps & Deployment:** Model Serving, Containerization (Docker), Monitoring, Scalable Inference  
+- **Other Skills:** Experiment Tracking, Hyperparameter Tuning, GPU Workflows  
+
+---
+
+## 🔑 Key Projects  
+
+- **Movie Recommendation Engine**  
+- **LangChain-powered AI Chatbot (OpenAI + RAG + Vector DB)**  
+- **Document Q&A System with Vector DB**  
+- **AI Agent Workflows using LangGraph + n8n**  
+- **Voice Agent: Conversational Assistant with ASR + TTS + Dialog Management**  
 
 ---
 
