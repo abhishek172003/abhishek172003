@@ -37,29 +37,40 @@
 
 ---  
 
-# 🚀 Core Expertise
+# 🚀 Core Expertise  
 
-- **Machine Learning:** Classification, Regression, Clustering, Model Evaluation  
-- **Deep Learning:** CNNs, Transformers, LLM Fine-tuning, Transfer Learning  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, Keras, Hugging Face, Autogen  
-- **Generative AI:** Chatbots, Text-to-Image, RAG (Retrieval-Augmented Generation) Systems  
-- **NLP:** Prompt Design, Sentiment Analysis, NER, Embeddings, Advanced Text Processing  
-- **Voice & Speech:** Voice Agents, ASR (Speech-to-Text), TTS (Text-to-Speech), Conversational AI  
-- **AI Agents & Automation:** LangChain, LangGraph, Autogen Agents, n8n, Agentic Workflows  
-- **Data & Storage:** Vector Databases, SQL, Data Engineering for ML Pipelines  
-- **Programming & Software Engineering:** Python, OOP, Modular Design, Unit Testing, CI/CD  
-- **MLOps & Deployment:** Model Serving, Containerization (Docker), Monitoring, Scalable Inference  
-- **Other Skills:** Experiment Tracking, Hyperparameter Tuning, GPU Workflows  
+### 🤖 Machine Learning & Deep Learning  
+- 🧩 Classification | Regression | Clustering  
+- 🧠 CNNs | Transformers | LLM Fine-tuning | Transfer Learning  
+- ⚡ Frameworks: PyTorch | TensorFlow | Keras | Hugging Face | Autogen  
+
+### 🎨 Generative AI & NLP  
+- 💬 Chatbots | RAG Systems | Text-to-Image  
+- 📝 Prompt Design | Sentiment Analysis | NER | Embeddings  
+
+### 🎙️ Voice & Speech AI  
+- 🎤 Voice Agents | ASR (Speech-to-Text) | TTS (Text-to-Speech)  
+- 🗣️ Conversational AI | Dialog Management  
+
+### 🤝 AI Agents & Automation  
+- 🔗 LangChain | LangGraph | Autogen Agents | n8n  
+- 🤖 Agentic Workflows & Orchestration  
+
+### 🗄️ Data, Engineering & MLOps  
+- 📊 Vector Databases | SQL | Data Pipelines  
+- 🐍 Python | OOP | Modular Code | Unit Testing | CI/CD  
+- 🛠️ Model Serving | Docker | Monitoring | Scalable Inference  
+- 🚀 Experiment Tracking | Hyperparameter Tuning | GPU Workflows  
 
 ---
 
 ## 🔑 Key Projects  
 
-- **Movie Recommendation Engine**  
-- **LangChain-powered AI Chatbot (OpenAI + RAG + Vector DB)**  
-- **Document Q&A System with Vector DB**  
-- **AI Agent Workflows using LangGraph + n8n**  
-- **Voice Agent: Conversational Assistant with ASR + TTS + Dialog Management**  
+- 🎬 **Movie Recommendation Engine**  
+- 🤖 **LangChain-powered AI Chatbot (OpenAI + RAG + Vector DB)**  
+- 📚 **Document Q&A System with Vector DB**  
+- 🔗 **AI Agent Workflows using LangGraph + n8n**  
+- 🎙️ **Voice Agent: Conversational Assistant with ASR + TTS + Dialog Management**  
 
 ---
 
