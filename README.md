@@ -48,10 +48,6 @@
 - 💬 Chatbots | RAG Systems | Text-to-Image  
 - 📝 Prompt Design | Sentiment Analysis | NER | Embeddings  
 
-### 🎙️ Voice & Speech AI  
-- 🎤 Voice Agents | ASR (Speech-to-Text) | TTS (Text-to-Speech)  
-- 🗣️ Conversational AI | Dialog Management  
-
 ### 🤝 AI Agents & Automation  
 - 🔗 LangChain | LangGraph | Autogen Agents | n8n  
 - 🤖 Agentic Workflows & Orchestration  
