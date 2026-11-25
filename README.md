@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+|+GenAI+|+LLMs+|+LangChain+|+Deep+Learning" alt="Typing animation" />
   <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=LangGraph+|+AI+Agents+|+MLOps+|+LLMOps+|+TensorFlow+|+PyTorch+|+Reinforcement+Learning" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=LangGraph+|+AI+Agents+|+MLOps+|+LLMOps+|+TensorFlow+|+PyTorch" alt="Typing animation" />
 </p>
 
 
